@@ -1,6 +1,8 @@
 # MCTS
 Monte Carlo Tree Search
 
+## TicTacToe 게임으로 구현
+
 ## 알고리즘 정리
 
 1. Root 노드에서 Selection(선택) 시작.
