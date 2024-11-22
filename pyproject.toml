@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "mcts"
+version = "0.0.1"
+description = ""
+authors = ["Chansong You <dbcksthd13@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+python-dotenv = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
